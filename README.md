@@ -38,4 +38,4 @@ The transcript is saved as `<video-name>.groq.txt` with timestamps printed to th
 - Speed: (local whisper vs. the Groq API)
 - Errors noticed: (missed words, wrong names, punctuation, etc.)
 
-Here are my expansive thoughts. 
+I picked this video and 
